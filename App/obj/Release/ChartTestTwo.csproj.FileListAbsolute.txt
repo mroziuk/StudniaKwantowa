@@ -1,0 +1,9 @@
+D:\STUDIA\NET\ChartTestTwoMiłosz\bin\Release\ChartTestTwo.exe
+D:\STUDIA\NET\ChartTestTwoMiłosz\bin\Release\ChartTestTwo.pdb
+D:\STUDIA\NET\ChartTestTwoMiłosz\obj\Release\ChartTestTwo.csproj.AssemblyReference.cache
+D:\STUDIA\NET\ChartTestTwoMiłosz\obj\Release\ChartTestTwo.Form1.resources
+D:\STUDIA\NET\ChartTestTwoMiłosz\obj\Release\ChartTestTwo.Properties.Resources.resources
+D:\STUDIA\NET\ChartTestTwoMiłosz\obj\Release\ChartTestTwo.csproj.GenerateResource.cache
+D:\STUDIA\NET\ChartTestTwoMiłosz\obj\Release\ChartTestTwo.csproj.CoreCompileInputs.cache
+D:\STUDIA\NET\ChartTestTwoMiłosz\obj\Release\ChartTestTwo.exe
+D:\STUDIA\NET\ChartTestTwoMiłosz\obj\Release\ChartTestTwo.pdb

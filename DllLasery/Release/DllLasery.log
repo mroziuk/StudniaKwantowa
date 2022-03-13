@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  dllmain.cpp
+D:\STUDIA\NET\DllLasery\dllmain.cpp(985,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\STUDIA\NET\DllLasery\dllmain.cpp(989,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     Creating library D:\STUDIA\NET\ChartTestTwoMiłosz\Release\DllLasery.lib and object D:\STUDIA\NET\ChartTestTwoMiłosz\Release\DllLasery.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 154 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DllLasery.vcxproj -> D:\STUDIA\NET\ChartTestTwoMiłosz\Release\DllLasery.dll

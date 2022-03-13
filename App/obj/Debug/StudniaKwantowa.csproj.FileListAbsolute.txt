@@ -1,0 +1,9 @@
+D:\STUDIA\2020\NET\StudniaKwantowa\App\bin\Debug\ChartTestTwo.exe
+D:\STUDIA\2020\NET\StudniaKwantowa\App\bin\Debug\ChartTestTwo.pdb
+D:\STUDIA\2020\NET\StudniaKwantowa\App\obj\Debug\StudniaKwantowa.csproj.AssemblyReference.cache
+D:\STUDIA\2020\NET\StudniaKwantowa\App\obj\Debug\ChartTestTwo.MainForm.resources
+D:\STUDIA\2020\NET\StudniaKwantowa\App\obj\Debug\ChartTestTwo.Properties.Resources.resources
+D:\STUDIA\2020\NET\StudniaKwantowa\App\obj\Debug\StudniaKwantowa.csproj.GenerateResource.cache
+D:\STUDIA\2020\NET\StudniaKwantowa\App\obj\Debug\StudniaKwantowa.csproj.CoreCompileInputs.cache
+D:\STUDIA\2020\NET\StudniaKwantowa\App\obj\Debug\ChartTestTwo.exe
+D:\STUDIA\2020\NET\StudniaKwantowa\App\obj\Debug\ChartTestTwo.pdb
